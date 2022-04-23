@@ -1,0 +1,20 @@
+Đổi tên đề cương và tên file thành: họ tên_đề tài
+Hướng dẫn đề tài:
+quy trình nghiệp vụ vẽ 1 hình thoi (gồm mua, bán tất tần tật)
+rồi sau đó mới phân rã ra các quy trình nhỏ nhỏ
+mua hàng, bán hành ở đâu. Phải có doanh thu lợi nhuận
+========================================================================
+2.2) khái niệm nghiệp vụ về quản lý bán hàng tất cả khái niệm (10 trang)
+Cần những kiến thức gì để có thể quản lý bán hàn
+2.3) công cụ thực hiện (sql, c#, …)
+Chương 3: Phân tích thiết kế hệ thống
+3.1) Sơ đồ lý thuyết phân rã thành sơ đồ dòng dữ liệu bao gồm các thực thể gì, các thuộc tính gì, các dữ liệu gì, các ràng buộc, …. (tham khảo đồ án thầy Thể)
+Chương 4: hiện thực chương trình
+Chương trình có những thành phần nào đưa vào (làm phân quyền sau hết các form)
+Các form phải có thêm, xóa, sửa, tìm kiếm theo tiêu chí.
+Làm các báo cáo report. (Tìm theo ngày tháng năm) vd: báo cáo doanh thu,…
+Phần trợ giúp: Cop chương 4 ra file riêng từ file word thành file .chm (làm sau cùng)
+Ngoài ra có thể làm thêm sao lưu, phục hồi.
+	Tuần sau nộp đề cương đề tài
+	Dành 4 tuần xong báo cáo đến chương 3 còn 3 tuần còn lại viết chương trình
+
